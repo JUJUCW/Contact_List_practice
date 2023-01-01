@@ -1,0 +1,37 @@
+
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+img{
+  background-color: #40E0D0;
+}
+form{
+width: 20%;
+}
+.card {
+  width: 12rem;
+  color: #008080;
+  padding: 0;
+  border:0.5px solid #E0FFFF;
+
+}
+.card-box{
+  background-color: transparent;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.card:hover {
+  cursor: pointer;
+  background-color: #008080;
+  color: #fff
+  ;
+  
+}
+.modal-content{
+  background-color: #008080;
+}
+
+/* .card-box{
+  height: 330px;
+} */
